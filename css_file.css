@@ -155,8 +155,7 @@ font-size: 1.5em;
 	padding-bottom:20px;
 }
 
-footer{
-	min-height:250px;
+footer{ padding-bottom: 50px;
 	color:#ccc;
 	font-size:1.5em;
 }
@@ -185,7 +184,7 @@ footer img{
 
 footer li, footer p{
 	margin : 0;
-	padding : 7px;
+	padding : 37px;
 }
 
 ul.links i {
@@ -211,9 +210,10 @@ ul.links i {
   {
     height: 55vh;
     float: left;
-    width: 29%; 
+    width: 300px; 
     padding: 20px;
-    margin-left:3%;
+    margin-left:30px;
     margin-bottom: 60px;
   }
   /*--- end of page 3 --*/
+  
