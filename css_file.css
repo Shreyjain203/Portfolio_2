@@ -102,10 +102,8 @@ body{
 .top_resume_button{
 	background-color: Transparent;
   background-repeat:no-repeat;
-	cursor:pointer;
-	position: absolute;
-	right:80px; 
-	top:60px;
+  cursor:pointer;
+  float: right;
 	overflow: hidden;  
 	color: white;
 	border: 0.2px solid #fff;
